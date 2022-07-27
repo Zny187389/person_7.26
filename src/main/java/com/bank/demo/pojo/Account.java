@@ -10,6 +10,9 @@ import lombok.NoArgsConstructor;
 import java.io.Serializable;
 import java.math.BigDecimal;
 
+/**
+ * 1111111111111
+ */
 @Data
 @TableName("acount")
 @AllArgsConstructor
